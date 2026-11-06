@@ -1,7 +1,7 @@
 # GPT-6 Astra
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GPT--6-Astra-6366f1?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-6 Astra">
+  <img src="https://commons.wikimedia.org/wiki/File:ChatGPT-Logo.png" alt="GPT-6 Astra">
 </p>
 
 <p align="center">
